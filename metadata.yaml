@@ -1,5 +1,8 @@
 _repo: Deutsche-Humoristen-7-Band-von-8_53459
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53459-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Schussen, Wilhelm
@@ -14,7 +17,7 @@ creator:
     gutenberg_agent_id: '47384'
     url: http://www.gutenberg.org/2009/agents/47384
   - agent_name: Enking, Ottomar
-    birthdate: &id001 1867
+    birthdate: 1867
     deathdate: 1937
     gutenberg_agent_id: '47383'
     url: http://www.gutenberg.org/2009/agents/47383
@@ -27,12 +30,14 @@ creator:
     wikipedia: http://de.wikipedia.org/wiki/Rudolf_Greinz
   - agent_name: Thoma, Ludwig
     alias: Schlemihl, Peter
-    birthdate: *id001
+    birthdate: 1867
     deathdate: 1921
     gutenberg_agent_id: '1607'
     url: http://www.gutenberg.org/2009/agents/1607
     wikipedia: http://en.wikipedia.org/wiki/Ludwig_Thoma
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53459#Deutsche-Humoristen-7-Band-von-8
 gutenberg_issued: '2016-11-06'
 gutenberg_type: Text
 identifiers:
