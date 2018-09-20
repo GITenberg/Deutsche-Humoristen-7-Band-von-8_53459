@@ -1,0 +1,53 @@
+_repo: Deutsche-Humoristen-7-Band-von-8_53459
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Schussen, Wilhelm
+    alias: Frick, Wilhelm
+    birthdate: 1874
+    deathdate: 1956
+    gutenberg_agent_id: '47385'
+    url: http://www.gutenberg.org/2009/agents/47385
+  - agent_name: Croissant-Rust, Anna
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '47384'
+    url: http://www.gutenberg.org/2009/agents/47384
+  - agent_name: Enking, Ottomar
+    birthdate: &id001 1867
+    deathdate: 1937
+    gutenberg_agent_id: '47383'
+    url: http://www.gutenberg.org/2009/agents/47383
+  - agent_name: Greinz, Rudolf
+    alias: Greinz, Rudolf Heinrich
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '32180'
+    url: http://www.gutenberg.org/2009/agents/32180
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Greinz
+  - agent_name: Thoma, Ludwig
+    alias: Schlemihl, Peter
+    birthdate: *id001
+    deathdate: 1921
+    gutenberg_agent_id: '1607'
+    url: http://www.gutenberg.org/2009/agents/1607
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Thoma
+description: ''
+gutenberg_issued: '2016-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53459'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German wit and humor'
+- GITenberg
+tableOfContents: 'Enking, Ottomar: Das Kriegerfest in Wettorp -- Croissant-Rust, Anna:
+  Der Herr Buchhalter -- Schussen, Wilhelm: Pilgrime -- Greinz, Rudolf: Das Hennendiandl
+  -- Bonde, Sophus: Jochen Appelbaums Galion -- Thoma, Ludwig: Unser guater, alter
+  Herzog Karl is a Rindviech -- Fischer-Graz, Wilhelm: Die Rebenbäckerin.'
+title: Deutsche Humoristen, 7. Band (von 8)
+url: http://www.gutenberg.org/ebooks/53459
